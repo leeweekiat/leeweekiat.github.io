@@ -19,3 +19,12 @@ Should Gig Platforms Decentralize Dispute Resolution?
 * Cornell OTIM PhD Forum - 2020
 * INFORMS Annual Meeting - 2020 
 
+Do Predictive Scheduling Laws Work?
+======
+* INFORMS Annual Meeting - 2023 (Upcoming) 
+* POMS Annual Conference - 2023
+* INFORMS Annual Meeting - 2022 
+
+Freelancers or Employees? A Field Experiment With a Food Delivery Platform
+======
+* INFORMS Annual Meeting - 2023 (Upcoming)
