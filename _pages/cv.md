@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Civil Engineering with Specialization in Offshore Engineering (First Class Honors), National University of Singapore, 2013
+* M.Sc. in Financial Engineering, National University of Singapore, 2016
+* M.S. in Operations, Technology & Information Management, Cornell University, 2022
+* Ph.D. in Operations, Technology & Information Management, Cornell University, 2023 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant, Nanyang Business School - 2017 - 2018
+* Manager, Maritime and Port Authority of Singapore - 2016 - 2017
+* Civil Engineer, Maritime and Port Authority of Singapore - 2013 - 2016
+* Hull Supervisor (Intern), Keppel FELS  - 2012
+* Engineer (Intern), Maritime and Port Authority of Singapore  - 2011
+* Admin Clerk, Maritime and Port Authority of Singapore  - 2009
+* Gunner (National Service), Republic of Singapore Air Force - 2007 - 2008
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
