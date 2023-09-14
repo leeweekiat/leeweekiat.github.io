@@ -20,10 +20,11 @@ Education
 
 Work experience
 ======
+* Assistant Professor, Nanyang Business School - 2023 - present
 * Research Assistant, Nanyang Business School - 2017 - 2018
 * Manager, Maritime and Port Authority of Singapore - 2016 - 2017
 * Civil Engineer, Maritime and Port Authority of Singapore - 2013 - 2016
 * Hull Supervisor (Intern), Keppel FELS  - 2012
 * Engineer (Intern), Maritime and Port Authority of Singapore  - 2011
 * Admin Clerk, Maritime and Port Authority of Singapore  - 2009
-* Gunner (National Service), Republic of Singapore Air Force - 2007 - 2008
+* National Service, Republic of Singapore Air Force - 2007 - 2008
