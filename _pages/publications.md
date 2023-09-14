@@ -11,7 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-To be updated
 
 
 {% for post in site.publications reversed %}
