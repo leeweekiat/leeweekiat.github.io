@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Civil Engineering with Specialization in Offshore Engineering (First Class Honors), National University of Singapore, 2013
-* M.Sc. in Financial Engineering, National University of Singapore, 2016
+* Ph.D. in Operations, Technology & Information Management, Cornell University, 2023
 * M.S. in Operations, Technology & Information Management, Cornell University, 2022
-* Ph.D. in Operations, Technology & Information Management, Cornell University, 2023 
+* M.Sc. in Financial Engineering, National University of Singapore, 2016
+* B.Eng. in Civil Engineering with Specialization in Offshore Engineering (First Class Honors), National University of Singapore, 2013
+
+
 
 Work experience
 ======
