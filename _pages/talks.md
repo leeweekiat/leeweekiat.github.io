@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Talks and presentations"
@@ -17,5 +18,4 @@ Should Gig Platforms Decentralize Dispute Resolution?
 * POMS Annual Conference - 2021
 * Cornell OTIM PhD Forum - 2020
 * INFORMS Annual Meeting - 2020 
-
 
