@@ -25,22 +25,3 @@ Work experience
 * Engineer (Intern), Maritime and Port Authority of Singapore  - 2011
 * Admin Clerk, Maritime and Port Authority of Singapore  - 2009
 * Gunner (National Service), Republic of Singapore Air Force - 2007 - 2008
-  
-
-
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
