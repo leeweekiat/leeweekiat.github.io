@@ -6,7 +6,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
 
 Should Gig Platforms Decentralize Dispute Resolution?
 ======
