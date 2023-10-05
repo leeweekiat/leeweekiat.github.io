@@ -12,4 +12,3 @@ Hi! I am an assistant professor in the the Division of Information Technology & 
 
 My current research interests include platform operations, gig economy, and workforce management. I use both analytical and empirical approaches to generate managerial insights. Feel free to look at my [CV](https://leeweekiat.github.io/cv/) to know more about my experiences.
 
-In my free time, I love playing nintendo games with my child and making origami.
