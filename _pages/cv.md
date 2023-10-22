@@ -26,5 +26,4 @@ Work experience
 * Civil Engineer, Maritime and Port Authority of Singapore - 2013 - 2016
 * Hull Supervisor (Intern), Keppel FELS  - 2012
 * Engineer (Intern), Maritime and Port Authority of Singapore  - 2011
-* Admin Clerk, Maritime and Port Authority of Singapore  - 2009
-* Gunner, Republic of Singapore Air Force - 2007 - 2008
+
