@@ -22,8 +22,8 @@ Wee Kiat Lee. The Value of Commitment to Equitable Products
 
 Work in Progress
 ======
-R. Huang \& W.K. Lee. Double Agency of Manufacturer in Supply Chains. 
+R. Huang & W.K. Lee. Double Agency of Manufacturer in Supply Chains. 
 
-X. Cao, W. Huang \& W.K. Lee. Blockchain-Driven Return Policy for Online Platform.  
+X. Cao, W. Huang & W.K. Lee. Blockchain-Driven Return Policy for Online Platform.  
 
-B. Hu \& W.K. Lee. Online Dispute Resolution on Second-Hand Platform.   
+B. Hu & W.K. Lee. Online Dispute Resolution on Second-Hand Platform.   
