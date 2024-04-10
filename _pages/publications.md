@@ -17,7 +17,7 @@ W.K. Lee, Y. Cui, K. Girotra. 2023. Are Fair Workweek Laws Fair?
 
 W.K. Lee, Y. Cui, Q. Li. 2023. Freelancers or employees? A field experiment with a food-delivery platform.
 
-Wee Kiat Lee. The Value of Commitment to Equitable Products 
+W.K. Lee. The Value of Commitment to Equitable Products 
 
 
 Work in Progress
