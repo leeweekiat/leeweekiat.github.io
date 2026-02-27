@@ -25,7 +25,7 @@ Work in Progress
 ======
 Lee, W.K., Cui Y., and Girotra, K. Fair Workweek, Fair Outcomes? The Heterogeneous Treatment Effects of Predictive Scheduling Laws. 
 
-Lee, W.K., and Lim, S.W.T. Who Answers the Call? Managing Volunteers on a Nonprofit Logistics Platform.
+Lee, W.K., and Lim, S.F.W.T. Who Answers the Call? Managing Volunteers on a Nonprofit Logistics Platform.
 
 Lee, W.K., Cui, Y., and Li, Q. Shift Commitment in the Gig Economy: A Study with a Food Delivery Platform. 
 
