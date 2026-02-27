@@ -8,7 +8,7 @@ author_profile: true
 Published Papers
 ======
 
-Lee, W.K. and Cui, Y.  (2024) “Should Gig Platforms Decentralize Dispute Resolution?” Accepted at Manufacturing & Service Operations Management. 
+Lee, W.K. and Cui, Y.  (2024) “Should Gig Platforms Decentralize Dispute Resolution?” Accepted at [Manufacturing & Service Operations Management](https://pubsonline.informs.org/doi/10.1287/msom.2022.0398)
 
 Working Papers
 ======
