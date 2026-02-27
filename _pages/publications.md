@@ -19,7 +19,7 @@ Hu, B., and Lee, W.K. Rushed Justice: The Value of Fast-Track Dispute Systems on
 
 Huang, R., and Lee, W.K. When Sustainability Support Falls Flat: How Manufacturer Double Agency Role Shapes Effort in Multi-Tier Supply Chains. 
 
-Cao, X., Huang, W. and Lee, W.K.  Digital Puppeteers: Investigating the Use of Online Brigades to Influence Employee Behavior and Consumer Perceptions.
+Cao, X., Huang, W. and Lee, W.K. Designing the Invisible Hand: Managing Gig Worker Behavior through Digital Influence
 
 Work in Progress
 ======
