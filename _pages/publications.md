@@ -8,22 +8,24 @@ author_profile: true
 Published Papers
 ======
 
-W.K. Lee, Y. Cui. (2023) “Should Gig Platforms Decentralize Dispute Resolution?” Accepted at Manufacturing & Service Operations Management. Note that the E-Companion can be found [here](https://www.dropbox.com/scl/fi/ukclv3xrw3fk1j5unywc5/Disputepaper-Electronic-Companions.pdf?rlkey=lpynr5yn6seocj356cpbv55fk&dl=0)
+Lee, W.K. and Cui, Y.  (2024) “Should Gig Platforms Decentralize Dispute Resolution?” Accepted at Manufacturing & Service Operations Management. 
 
 Working Papers
 ======
 
-W.K. Lee, Y. Cui, K. Girotra. 2023. Are Fair Workweek Laws Fair? 
+Lee, W.K., Cui, Y., and Li, Q. Freelancers or employees? A field experiment with a food-delivery platform.
 
-W.K. Lee, Y. Cui, Q. Li. 2023. Freelancers or employees? A field experiment with a food-delivery platform.
+Hu, B., and Lee, W.K. Rushed Justice: The Value of Fast-Track Dispute Systems on Second-Hand Platforms.
 
-W.K. Lee. The Value of Commitment to Equitable Products 
+Huang, R., and Lee, W.K. When Sustainability Support Falls Flat: How Manufacturer Double Agency Role Shapes Effort in Multi-Tier Supply Chains. 
 
+Cao, X., Huang, W. and Lee, W.K.  Digital Puppeteers: Investigating the Use of Online Brigades to Influence Employee Behavior and Consumer Perceptions.
 
 Work in Progress
 ======
-R. Huang & W.K. Lee. Double Agency of Manufacturer in Supply Chains. 
+Lee, W.K., Cui Y., and Girotra, K. Fair Workweek, Fair Outcomes? The Heterogeneous Treatment Effects of Predictive Scheduling Laws. 
 
-X. Cao, W. Huang & W.K. Lee. Blockchain-Driven Return Policy for Online Platform.  
+Lee, W.K., and Lim, S.W.T. Who Answers the Call? Managing Volunteers on a Nonprofit Logistics Platform.
 
-B. Hu & W.K. Lee. Online Dispute Resolution on Second-Hand Platform.   
+Lee, W.K., Cui, Y., and Li, Q. Shift Commitment in the Gig Economy: A Study with a Food Delivery Platform. 
+
