@@ -16,11 +16,10 @@ The user supplied [https://leeweekiat.github.io/](https://leeweekiat.github.io/)
 | `wklee@ntu.edu.sg` | Both the existing site's `mailto:` link and the official NTU faculty directory. |
 | Office ABS-06-028; Singapore | Official NTU faculty directory. No personal address or telephone number was added. |
 | [NTU faculty profile](https://dr.ntu.edu.sg/cris/rp/rp00270) | Exact target linked by both the existing homepage and official NTU directory. Direct automated retrieval returned HTTP 429 during verification; the URL's provenance is corroborated by both sources. |
-| [Google Scholar](https://scholar.google.com/citations?user=weL_RJoAAAAJ) | The Scholar profile identifies Wee Kiat Lee, Nanyang Technological University, a verified `ntu.edu.sg` email, operations management, and the same MSOM article. No citation metrics were copied because the available retrieved profile snapshot was older. |
 
 ## CV
 
-The source is the user's [public HTML CV](https://leeweekiat.github.io/cv/). No downloadable CV PDF was linked there and no original CV PDF was supplied. `cv/index.html` reproduces its education and experience in the site's styling. Its print/save-PDF button uses the browser's print facility; it is not a download of a supplied original PDF.
+The source is the user's [public HTML CV](https://leeweekiat.github.io/cv/). No downloadable CV PDF was linked there and no original CV PDF was supplied. `cv/index.html` presents its education and selected experience in the site's styling. At the user's request, the 2012 and 2011 internship entries are omitted. Its print/save-PDF button uses the browser's print facility; it is not a download of a supplied original PDF.
 
 Education transcribed from that source:
 
@@ -29,16 +28,20 @@ Education transcribed from that source:
 - MSc in Financial Engineering, National University of Singapore, 2014–2016.
 - BEng in Civil Engineering with Specialization in Offshore Engineering, First Class Honors, National University of Singapore, 2009–2013.
 
-Experience transcribed from that source:
+Experience retained from that source:
 
 - Assistant Professor, Nanyang Business School, 2023–present.
 - Research Assistant, Nanyang Business School, 2017–2018.
 - Manager, Maritime and Port Authority of Singapore, 2016–2017.
 - Civil Engineer, Maritime and Port Authority of Singapore, 2013–2016.
-- Hull Supervisor (Intern), Keppel FELS, 2012.
-- Engineer (Intern), Maritime and Port Authority of Singapore, 2011.
 
 Degree abbreviations and punctuation were normalized without changing their meaning. The institutional affiliation expands Nanyang Business School to include NTU, as established on the homepage and official directory.
+
+## Subsequent presentation edits and manuscript addition — approved for publication
+
+After release `abdcb6d`, the user requested “Ideas into insights.” as the paper-section heading and removal of the repeated per-paper Working Paper / Work in Progress badges. The existing research entries, authors, links, journal review statuses, and the finalist accolade remain. The user also requested removing the two internship entries above and all Google Scholar links from the website; the Scholar links in the homepage, paper-section header, contact area, CV, and this maintainer record have been removed. The official faculty-profile links remain. The user subsequently approved committing and pushing all of these changes and the manuscript addition below to `leeweekiat/leeweekiat.github.io`, followed by live-site verification.
+
+The user subsequently supplied **Shift Commitment in the Gig Economy: A Study with a Food Delivery Platform**, authored by **Wee Kiat Lee, Yao Cui, and Qi Li**, and requested insertion immediately after “Designing the Invisible Hand” and before “Who Answers the Call”. The title and author order come directly from the user's message. No manuscript URL, year, or review stage was supplied or inferred. The approved revision contains ten research entries: one published article, four linked working papers, and five unlinked manuscripts or projects; the displayed numbering runs from 01 to 10.
 
 ## Papers
 
