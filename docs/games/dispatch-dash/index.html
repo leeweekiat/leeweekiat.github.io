@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8f8f1">
+  <meta name="description" content="Dispatch Dash: Beat the Clock! Route a bicycle courier through a lively little city, batch pickups, and deliver before the deadlines. An educational game by Wee Kiat Lee.">
+  <title>Dispatch Dash: Beat the Clock! | Wee Kiat Lee</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg">
+  <link rel="stylesheet" href="style.css">
+  <script src="engine.js" defer></script>
+  <script src="game.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to game</a>
+  <header class="site-bar shell">
+    <a href="../../index.html#lab" class="back">← <span>Back to My Website</span></a>
+    <span class="lab-label">WEE KIAT LEE <span aria-hidden="true">/</span> INTERACTIVE LAB</span>
+    <button type="button" id="sound" class="quiet-button" aria-pressed="false">Sound: Off</button>
+  </header>
+  <main class="shell" id="main" tabindex="-1">
+    <div id="app"><section class="loading"><h1>Dispatch Dash:<br>Beat the Clock!</h1><p>Your city is getting ready.</p><noscript><p>This interactive game needs JavaScript. <a href="../../index.html">Return to the academic website.</a></p></noscript></section></div>
+    <p id="status" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+    <details class="rules" id="rules">
+      <summary>Behind the game: rules &amp; assumptions <span aria-hidden="true">+</span></summary>
+      <div class="rules-content">
+        <p><strong>A fictional city for exploring decisions.</strong> This is an illustrative game, not a model calibrated to a delivery platform or evidence from published or unpublished research.</p>
+        <ul>
+          <li>Tap a restaurant or customer to choose your next stop. The bicycle follows the fastest road route using Dijkstra’s algorithm; you can change your destination at any time.</li>
+          <li>At a restaurant, collect specific orders or use <strong>Quick pickup</strong> to take the earliest-due orders first. Carry at most <strong>three</strong>. Arriving at a customer automatically delivers matching parcels.</li>
+          <li>Each order has its own pickup, customer, arrival time and deadline. Deliver by its deadline for <strong>+1</strong>. Miss it for <strong>−1, once</strong>. Expired orders leave the bag and queue: imagine a backup courier takes over. That is a game abstraction.</li>
+          <li>The final clearing period has no new arrivals. All unresolved orders count as missed when the session ends. Deadlines are generated from plausible road travel times and an allowance for decisions; simultaneous orders still require choices.</li>
+          <li>Road lengths are illustrative distance units, not real kilometres. Travel takes 1.7 or 2 game seconds per block. The clock and movement use elapsed active time, independent of frame rate. Pausing or hiding the tab freezes game time.</li>
+          <li>Score = on-time deliveries − missed orders. On-time percentage uses all generated orders. Distance per completed order divides all distance travelled by on-time deliveries; it is undefined if none are completed. No claim of optimal route efficiency is made.</li>
+          <li>A challenge code and duration reproduce the entire order schedule, including bursts and deadlines. Replay keeps that schedule and compares against your first completed run. Changes to the rules in a future game version may change a code’s scenario.</li>
+        </ul>
+        <p>No account, tracking, cookies, external services or personal information. Sound is optional and starts off. Reduced-motion preferences disable decorative animation; the courier’s position still updates because it is part of the game.</p>
+      </div>
+    </details>
+  </main>
+  <footer class="shell footer"><span>Small city. Thoughtful decisions.</span><a href="../../index.html">Wee Kiat Lee ↗</a></footer>
+</body>
+</html>
