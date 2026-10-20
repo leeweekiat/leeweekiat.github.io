@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="hub-title hub-desc">
+  <title id="hub-title">The marketplace hub</title>
+  <desc id="hub-desc">A small mint platform kiosk with an orange awning, a screen connecting three people, and a green authorization check.</desc>
+  <ellipse cx="120" cy="220" rx="89" ry="10" fill="#254b4110"/>
+  <g stroke="#254b41" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 67h128v136H56Z" fill="#a8d1bb"/>
+    <path d="M56 180h128v23H56Z" fill="#7eb39b" stroke="none"/>
+    <rect x="43" y="199" width="154" height="16" rx="5" fill="#d8e5ca"/>
+    <path d="m52 34-18 39c0 16 24 16 24 0 0 16 24 16 24 0 0 16 24 16 24 0 0 16 24 16 24 0 0 16 24 16 24 0 0 16 24 16 24 0 0 16 28 16 28 0l-18-39Z" fill="#f1b57c"/>
+    <path d="m78 34-20 39m47-39L82 73m48-39-24 39m48-39-24 39m48-39-24 39" fill="none" stroke="#dc955e" stroke-width="7"/>
+    <path d="M52 34h136m-154 39h172" fill="none"/>
+    <rect x="72" y="94" width="97" height="68" rx="10" fill="#fff8e6"/>
+    <path d="m97 137 23-26 23 26" fill="none" stroke="#82b99f" stroke-width="5"/>
+    <circle cx="120" cy="111" r="8" fill="#f1b57c"/>
+    <circle cx="97" cy="137" r="8" fill="#a8d1bb"/>
+    <circle cx="143" cy="137" r="8" fill="#a8d1bb"/>
+    <path d="M87 180h33m-33 8h20" fill="none" stroke-width="3"/>
+    <circle cx="168" cy="181" r="24" fill="#fff8e6"/>
+    <path d="m156 180 8 8 16-17" fill="none" stroke="#438a70" stroke-width="5"/>
+  </g>
+</svg>

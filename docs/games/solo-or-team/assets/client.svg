@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="client-title client-desc">
+  <title id="client-title">The client</title>
+  <desc id="client-desc">A friendly cream rabbit with tall pink-lined ears, a small mint cardigan and an orange clipboard showing a task to complete.</desc>
+  <ellipse cx="122" cy="218" rx="65" ry="9" fill="#254b4110"/>
+  <g stroke="#254b41" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="157" cy="188" r="14" fill="#fff8eb"/>
+    <path d="M96 195v12c-17 0-21 10-11 13h29l3-22m20-1 1 10c15 0 23 9 13 13h-28l-2-22" fill="#fff8eb"/>
+    <path d="M95 144c-12 14-18 33-15 48 4 18 18 22 41 22 22 0 35-7 38-22 2-16-4-35-16-48Z" fill="#95c6b1"/>
+    <path d="m108 150 12 12 12-12m-12 13v42" fill="none" stroke-width="3"/>
+    <path d="M88 89C74 69 71 34 81 24c8-7 17 0 21 12l11 45m19 1c-1-26 5-58 17-61 12-2 15 12 12 29l-9 42" fill="#fff8eb"/>
+    <path d="M73 105c0-28 18-42 48-42 32 0 50 15 50 43 0 29-20 46-50 46-29 0-48-17-48-47Z" fill="#fff8eb"/>
+  </g>
+  <path d="M89 73c-7-18-10-36-5-38 6-3 12 20 14 33m44-1c1-17 4-31 8-33 4-1 3 22-1 39" fill="none" stroke="#e8b2ac" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#254b41">
+    <ellipse cx="99" cy="104" rx="4.5" ry="6"/>
+    <ellipse cx="143" cy="104" rx="4.5" ry="6"/>
+    <path d="M116 115q6-4 12 0l-6 6Z"/>
+  </g>
+  <g fill="#e7aaa2">
+    <ellipse cx="85" cy="119" rx="8" ry="5"/>
+    <ellipse cx="158" cy="119" rx="8" ry="5"/>
+  </g>
+  <path d="M122 121v4m0 0c-4 5-9 5-12 1m12-1c4 5 9 5 12 1" fill="none" stroke="#254b41" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#254b41" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="102" y="156" width="54" height="48" rx="6" fill="#eba56d" stroke-width="3.5" transform="rotate(-8 129 180)"/>
+    <path d="m106 161 40-6 6 37-40 6Z" fill="#fff9e9" stroke="none"/>
+    <rect x="119" y="150" width="17" height="8" rx="3" fill="#73b5a1" stroke-width="2.5" transform="rotate(-8 129 154)"/>
+    <path d="m116 175 5 4 10-12m-13 21 20-3" fill="none" stroke-width="3"/>
+    <path d="m88 162 10 15 14 4c8 4 3 13-4 12-11-1-21-8-28-18m71-10 8 11-9 6c-6 5-1 13 6 10l13-9c4-4 5-9 1-15l-13-19" fill="#fff8eb" stroke-width="4.5"/>
+  </g>
+</svg>

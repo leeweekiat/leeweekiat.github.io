@@ -23,3 +23,9 @@ On 18 October 2026 the user approved Dispatch Dash: Beat the Clock! and its home
 The user-requested analytics revision adds their exact external module script once before `</body>` in each of the four public HTML pages. It is independent of the local website and game code. The user explicitly approved this revision for commit, push and live verification on 18 October 2026. All 41 static and 14 game UI checks passed, with browser navigation and game pickup/delivery smoke tests.
 
 Local verification confirms script loading and a request from the official beacon, but localhost collection returns status 0 (network/CORS failure). Cloudflare validates the registered hostname. After approval and deployment, verify the live pages load the script, the official beacon can post to `https://cloudflareinsights.com/cdn-cgi/rum`, and page views appear in the user's Cloudflare dashboard. Keep the publications redirect immediate; its destination homepage provides the dependable measurement point. Do not alter the hostname or weaken browser security to force local collection.
+
+## Solo or Team? release
+
+On 20 October 2026 the user approved the restored simpler game for commit, push and live verification. Its nine static runtime files live in `docs/games/solo-or-team/`, linked from the homepage Interactive Lab. Each challenge has ten opportunities (thirty total), with the original scenarios and realized policy comparisons. The homepage includes the matching preview size and “Set the rules. Watch the Market.” tagline.
+
+Pre-release validation passed 36 simulation, 16 controller and 59 static checks, followed by desktop/mobile browser verification. Deploy through the existing `master` → `/docs` Pages configuration. Verify the new homepage card, `/games/solo-or-team/`, ten-task progression, policy comparisons and relative return navigation after deployment. Archived experiments, local QA files and authoring instructions remain outside the publication checkout.
