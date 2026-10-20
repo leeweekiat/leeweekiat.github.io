@@ -49,7 +49,7 @@
       <p>One second-hand marketplace. A room full of opinions.<br>Your task: decide which disputes deserve a refund.</p>
       ${button("start", 'Enter the jury room <span aria-hidden="true">→</span>')}
       <p class="small">Start with 10 virtual tokens. Up to 10 cases.<br>No timer. You can stop whenever you like.</p></div>
-      <div class="welcome-art"><img src="assets/jury-scene.svg" width="600" height="380" alt="A colorful animal jury examining a disputed second-hand product."><span class="art-caption">The evidence speaks. The crowd decides.</span></div>
+      <div class="welcome-art"><img src="assets/jury-scene.svg?v=20261020-lens" width="600" height="380" alt="A colorful animal jury examining a disputed second-hand product."><span class="art-caption">The evidence speaks. The crowd decides.</span></div>
       </section>
       <div class="rule-strip"><div><span class="step">01</span><b>Pay 1 to inspect</b><p>Unlock a sealed case and examine the product.</p></div><div><span class="step">02</span><b>Cast your vote</b><p>Choose Refund or No Refund, then meet the jury.</p></div><div><span class="step">03</span><b>Agree? Receive 2</b><p>Join the majority to earn +1 token net.</p></div></div>
       <p class="small">Fictional game points only. No monetary value or redemption. Replay code: <strong>${esc(session.scenario.seed)}</strong></p>`;
@@ -170,7 +170,7 @@
       ${s.casesJudged ? `<div class="report-history table-scroll"><table><caption>Your judged cases · net tokens include the entry fee</caption><thead><tr><th scope="col">Case</th><th scope="col">Your vote</th><th scope="col">Majority</th><th scope="col">Net</th></tr></thead><tbody>${rows}</tbody></table></div>` : ""}
       <div class="button-row">${button("new", "Play Again with New Cases")}${button("replay", "Replay Same Cases", "secondary")}<a class="btn quiet" href="../../index.html#lab">Return to Interactive Lab</a></div>
       <p class="report-note">Replay code: <strong>${esc(session.scenario.seed)}</strong>. Replaying keeps the same evidence and simulated ballots. Your own vote can change a close majority.</p>
-      <p class="report-note">This is an illustrative crowd-judging game, not an assessment of legal refund entitlement or a reproduction of <em>Rushed Justice</em>. Tokens have no monetary value and cannot be redeemed.</p></section>`;
+      <p class="report-note">This is a standalone fictional crowd-judging simulation inspired by my research on dispute systems. Tokens are fictional game points, have no monetary value and cannot be redeemed. No account, real payment or backend is involved.</p></section>`;
   }
   app.addEventListener("click", event => {
     const target = event.target.closest("[data-action]");
