@@ -33,13 +33,7 @@
         <p>You are one juror on a fictional second-hand marketplace. Start with 10 tokens. Pay 1 token to unlock a case, inspect the evidence, then choose Refund or No Refund. Your vote and 2, 4, 6 or 8 simulated votes form an odd-sized jury, so there is always a majority.</p>
         <p>Agree with the majority and receive 2 tokens: a net gain of 1 after the entry fee. Disagree and receive no reward: a net loss of 1. There is no additional penalty. Stop whenever you like; a paid entry fee is not returned. If you finish during the vote animation, your submitted ballot is settled before the report appears. Spending your last token still lets you finish that paid case.</p>
         <h3>How the other jurors vote</h3>
-        <p>For each case, every simulated juror independently draws a type: 65% normal, 20% buyer-leaning, 15% seller-leaning. Buyer-leaning jurors always vote Refund; seller-leaning jurors always vote No Refund. Normal jurors respond probabilistically to the evidence:</p>
-        <div class="table-scroll"><table><caption>Default probability that a normal juror votes Refund</caption><thead><tr><th scope="col">Condition</th><th scope="col">Refund probability</th></tr></thead><tbody>
-          <tr><th scope="row">Good condition</th><td>5%</td></tr>
-          <tr><th scope="row">Lightly damaged</th><td>30%</td></tr>
-          <tr><th scope="row">Damaged</th><td>70%</td></tr>
-          <tr><th scope="row">Badly damaged</th><td>95%</td></tr>
-        </tbody></table></div>
+        <p>For each case, every simulated juror is independently assigned a type: normal, buyer-leaning or seller-leaning. Buyer-leaning jurors always vote Refund; seller-leaning jurors always vote No Refund. Normal jurors weigh the evidence: they are more likely to vote Refund when the product is more damaged, but their decisions can vary.</p>
         <p>The jury’s actual types and ballots stay hidden until after your vote. All cases, types and ballots are generated from the replay code before play. Animations only reveal those saved votes; they never change them to make you win or lose. Replay the same cases to try a different strategy. A different vote can change the majority because your ballot counts.</p>
         <p>A full ten-case session includes all ten product categories, all four condition levels and all four panel sizes, in a seeded random order. Remaining condition and panel-size slots are also randomly drawn. This ensures variety in a short game; juror types and votes are still independently drawn, with no target winning rate.</p>
         <h3>The illustrative evidence benchmark</h3>
