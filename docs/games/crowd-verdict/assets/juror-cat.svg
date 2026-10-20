@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="110" viewBox="0 0 100 110" role="img" aria-labelledby="cat-title">
+  <title id="cat-title">A cream cat juror with pink cheeks and a teal jacket</title>
+  <ellipse cx="50" cy="104" rx="35" ry="4" fill="#244c4610"/>
+  <g stroke="#244c46" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M73 89c19 2 23-10 16-17-5-4-9 0-6 5 3 5-2 8-10 5" fill="#fff0dd"/>
+    <path d="M32 64q-14 13-11 32 28 14 57 0 2-19-11-32Z" fill="#5d9e8a"/>
+    <path d="m38 70 12 13 13-13M50 83v18" fill="none" stroke-width="2"/>
+    <path d="m27 84 12 9m34-9-12 9" fill="none"/>
+    <ellipse cx="32" cy="95" rx="9" ry="6" fill="#fff0dd"/>
+    <ellipse cx="68" cy="95" rx="9" ry="6" fill="#fff0dd"/>
+    <path d="M19 39 20 10l24 15q7-2 14 0L80 10l1 29q12 33-31 36T19 39Z" fill="#fff0dd"/>
+    <path d="m27 31 1-11 10 8m25 0 10-8 1 11" fill="#e7aca2" stroke="none"/>
+    <path d="m16 50-10-3m11 10-11 2m77-9 10-3m-10 10 11 2" fill="none" stroke-width="2"/>
+  </g>
+  <g fill="#244c46"><ellipse cx="36" cy="43" rx="3.5" ry="4.5"/><ellipse cx="64" cy="43" rx="3.5" ry="4.5"/><path d="M45 51q5-4 10 0l-5 5Z"/></g>
+  <g fill="#e8aaa0"><ellipse cx="27" cy="53" rx="6" ry="4"/><ellipse cx="73" cy="53" rx="6" ry="4"/></g>
+  <path d="M50 55v3m0 0q-5 7-10 1m10-1q5 7 10 1" fill="none" stroke="#244c46" stroke-width="2.3" stroke-linecap="round"/>
+  <rect x="57" y="81" width="10" height="9" rx="2" fill="#f6da9b" stroke="#244c46" stroke-width="1.7"/>
+</svg>

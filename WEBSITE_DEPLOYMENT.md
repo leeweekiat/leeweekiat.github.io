@@ -29,3 +29,9 @@ Local verification confirms script loading and a request from the official beaco
 On 20 October 2026 the user approved the restored simpler game for commit, push and live verification. Its nine static runtime files live in `docs/games/solo-or-team/`, linked from the homepage Interactive Lab. Each challenge has ten opportunities (thirty total), with the original scenarios and realized policy comparisons. The homepage includes the matching preview size and “Set the rules. Watch the Market.” tagline.
 
 Pre-release validation passed 36 simulation, 16 controller and 59 static checks, followed by desktop/mobile browser verification. Deploy through the existing `master` → `/docs` Pages configuration. Verify the new homepage card, `/games/solo-or-team/`, ten-task progression, policy comparisons and relative return navigation after deployment. Archived experiments, local QA files and authoring instructions remain outside the publication checkout.
+
+## Crowd Verdict release
+
+On 20 October 2026 the user approved Crowd Verdict: Refund or Reject? and its Interactive Lab card for commit, push and live verification. Its ten runtime files are under `docs/games/crowd-verdict/`, using buildless HTML, CSS, SVG and vanilla JavaScript.
+
+Pre-release validation passed 31 model, 16 controller and 65 site checks. Browser checks covered all ten cases, token reconciliation, sequential ballots, pause/resume/skip, replay, voluntary finish, keyboard controls and desktop/mobile layouts. All three desktop Lab cards have the same 270 px height and 220 px preview; mobile previews are 190 px high. Publish through the existing `master` → `/docs` configuration, then verify the homepage link, live game assets, token flow, jury report and relative return link. The two existing games and academic content are preserved. Local tests, screenshots and review notes remain outside the publication checkout.

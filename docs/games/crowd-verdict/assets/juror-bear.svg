@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="110" viewBox="0 0 100 110" role="img" aria-labelledby="bear-title">
+  <title id="bear-title">A round-eared brown bear juror in a mint sweater</title>
+  <ellipse cx="50" cy="104" rx="35" ry="4" fill="#244c4610"/>
+  <g stroke="#244c46" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M31 68q-14 10-12 29 30 13 62 0 0-20-14-29Z" fill="#9ebca1"/>
+    <path d="M36 74q14 12 28 0m-38 12 10 4m38-4-10 4" fill="none" stroke-width="2"/>
+    <ellipse cx="30" cy="96" rx="10" ry="6" fill="#c39973"/>
+    <ellipse cx="70" cy="96" rx="10" ry="6" fill="#c39973"/>
+    <circle cx="24" cy="26" r="12" fill="#c39973"/>
+    <circle cx="76" cy="26" r="12" fill="#c39973"/>
+    <path d="M18 43q0-27 32-27t32 27q3 32-32 33T18 43Z" fill="#cda580"/>
+  </g>
+  <path d="M18 26q4-7 10-2m45 0q6-5 9 2" fill="none" stroke="#a77658" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="50" cy="58" rx="21" ry="14" fill="#f7e3ba"/>
+  <g fill="#244c46"><ellipse cx="36" cy="42" rx="3.5" ry="4.5"/><ellipse cx="64" cy="42" rx="3.5" ry="4.5"/><ellipse cx="50" cy="53" rx="6" ry="4.5"/></g>
+  <g fill="#dc9d8d"><ellipse cx="25" cy="53" rx="5.5" ry="3.5"/><ellipse cx="75" cy="53" rx="5.5" ry="3.5"/></g>
+  <path d="M50 57v4m0 0q-5 6-10 1m10-1q5 6 10 1" fill="none" stroke="#244c46" stroke-width="2.3" stroke-linecap="round"/>
+  <path d="M40 88q10-8 20 0v9H40Z" fill="#f1dbad" stroke="#244c46" stroke-width="1.7"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="110" viewBox="0 0 100 110" role="img" aria-labelledby="rabbit-title">
+  <title id="rabbit-title">A long-eared rabbit juror in a coral cardigan</title>
+  <ellipse cx="50" cy="104" rx="34" ry="4" fill="#244c4610"/>
+  <g stroke="#244c46" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M35 68q-14 10-13 29 27 13 56 0 1-20-14-29Z" fill="#e8a283"/>
+    <path d="m38 73 12 11 12-11m-12 12v16" fill="none" stroke-width="2"/>
+    <ellipse cx="31" cy="95" rx="9" ry="6" fill="#fbf0da"/>
+    <ellipse cx="69" cy="95" rx="9" ry="6" fill="#fbf0da"/>
+    <path d="M31 39C14-5 36-7 42 32h15C61-7 86-5 69 40" fill="#fbf0da"/>
+    <path d="M26 49q0-24 24-24t25 24q1 26-25 27T26 49Z" fill="#fbf0da"/>
+    <path d="M31 12q-2 9 6 21m28 0q8-22 5-23" fill="none" stroke="#e8b4a9" stroke-width="5"/>
+    <path d="M44 61h12v9H44Z" fill="#fffaf0" stroke-width="1.8"/>
+  </g>
+  <g fill="#244c46"><ellipse cx="38" cy="48" rx="3.2" ry="4"/><ellipse cx="63" cy="48" rx="3.2" ry="4"/><path d="M46 55q4-4 9 0l-5 4Z"/></g>
+  <g fill="#e6aaa0"><ellipse cx="32" cy="57" rx="5" ry="3"/><ellipse cx="70" cy="57" rx="5" ry="3"/></g>
+  <path d="m50 59-6 3m6-3 6 3" fill="none" stroke="#244c46" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="50" cy="89" r="2" fill="#fff0d4"/><circle cx="50" cy="96" r="2" fill="#fff0d4"/>
+  <path d="M59 85h9v7h-9Z" fill="#fff0d4" stroke="#244c46" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>
