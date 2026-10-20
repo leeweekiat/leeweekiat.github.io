@@ -1,7 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="marketplace-title marketplace-desc">
   <title id="marketplace-title">A small marketplace, three different perspectives</title>
   <desc id="marketplace-desc">An otter lead worker, a cat secondary worker and a rabbit client gather around a mint marketplace hub. Floating task cards, an approval request, green permission checks and a purple dotted connection represent the different paths a job can take.</desc>
+  <style>
+    .market-signal { display: none; }
+    @supports (offset-path: path("M0 0L1 1")) {
+      .market-signal {
+        display: inline;
+        offset-path: path("M795 176C730 100 647 121 558 189C520 219 480 240 425 242C359 211 316 220 265 269C223 288 238 321 283 345C380 406 526 419 637 369C675 349 684 319 659 290C642 261 613 251 564 260C534 246 536 211 558 189C647 121 730 100 795 176Z");
+        offset-anchor: 0px 0px;
+        offset-rotate: 0deg;
+        animation: marketplace-circuit 12s linear infinite;
+      }
+    }
+    @keyframes marketplace-circuit {
+      from { offset-distance: 0%; }
+      to { offset-distance: 100%; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .market-signal { display: none; animation: none; }
+    }
+  </style>
   <defs>
+    <radialGradient id="signal-glow">
+      <stop offset="0" stop-color="#fff5ba" stop-opacity=".95"/>
+      <stop offset=".4" stop-color="#ffe6a0" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#ffe6a0" stop-opacity="0"/>
+    </radialGradient>
 <symbol id="scene-lead" viewBox="0 0 240 240">
   <ellipse cx="121" cy="218" rx="72" ry="9" fill="#254b4110"/>
   <g stroke="#254b41" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
@@ -115,7 +139,7 @@
   </g>
 </symbol>
   </defs>
-  <!-- Background paths are intentionally separate from the people: the game animates each policy's actual flow. -->
+  <!-- Decorative overview paths; gameplay separately animates each policy's actual flow. -->
   <path d="M48 210C40 111 139 67 257 92c104 22 153-75 269-56 95 15 115 64 192 51 135-22 217 27 211 119-7 93-128 167-247 172-116 5-191 45-332 30C167 388 55 333 48 210Z" fill="#e9efda"/>
   <path d="M126 197c104-99 251-66 372-81 124-16 203-30 305 35" fill="none" stroke="#f7f6e9" stroke-width="15" stroke-linecap="round"/>
   <path d="M79 286c128 71 229 57 343 39 151-23 249 38 417-9" fill="none" stroke="#d9e5c9" stroke-width="32" stroke-linecap="round"/>
@@ -128,6 +152,12 @@
     <path d="M659 290c-17-29-46-39-95-30" stroke="#df9c64" stroke-width="6"/>
     <path d="m580 247-16 13 21 5" stroke="#df9c64" stroke-width="6"/>
     <path d="M283 345c97 61 243 74 354 24" stroke="#9c84b5" stroke-width="4" stroke-dasharray="4 11"/>
+  </g>
+  <!-- Rabbit -> hub -> otter -> cat -> hub -> rabbit. Hidden connectors pass behind the figures. -->
+  <g class="market-signal" aria-hidden="true" pointer-events="none">
+    <circle r="22" fill="url(#signal-glow)"/>
+    <circle r="8" fill="#fff9db" stroke="#e5b85f" stroke-width="2"/>
+    <circle cx="-2" cy="-2" r="3" fill="#fff"/>
   </g>
   <!-- Plants and small decorative map details. -->
   <g stroke="#527b64" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">

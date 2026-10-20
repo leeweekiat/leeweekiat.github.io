@@ -84,7 +84,7 @@
           <button class="button" data-action="start">Run my marketplace <span aria-hidden="true">→</span></button>
           <p class="welcome-meta">3 challenges · about 3–5 minutes · no timer pressure</p>
         </div>
-        <div class="welcome-art"><span class="art-note">A little help changes the picture.</span><img src="assets/marketplace.svg" alt="An otter lead worker, cat teammate and rabbit client connected through a miniature marketplace." width="960" height="440"><span class="art-note">Permission? It’s your call.</span></div>
+        <div class="welcome-art"><span class="art-note">A little help changes the picture.</span><img src="assets/marketplace.svg?v=20261020-glow" alt="An otter lead worker, cat teammate and rabbit client connected through a miniature marketplace." width="960" height="440"><span class="art-note">Permission? It’s your call.</span></div>
       </section>
       <div class="teach-strip">
         <div class="teach-item"><span class="teach-number">01</span><div><h2>Choose the rules</h2><p>Block, approve case by case, or recognize a formal team.</p></div></div>
