@@ -167,3 +167,7 @@ The user supplied the complete brief and approved the finished local version for
 Players start with ten fictional tokens and judge up to ten disputes. A one-token entry fee reveals original product evidence; majority agreement awards two tokens. Every simulated juror's type and ballot is generated before the player's vote. The player is included in an odd total of three, five, seven or nine voters. Replaying a seed preserves the evidence and other jurors' votes, without a forced winning rate. Normal-voter probabilities, buyer/seller leanings, variety sampling and the illustrative damage benchmark are disclosed game assumptions, not empirical research findings.
 
 All ten product categories, four condition variants per product, animal jurors and jury-room artwork are original editable SVG. Product descriptions and complaints are fictional. The website's approved Cloudflare snippet appears once on the new page; gameplay uses no external API or storage. No private manuscript, research dataset, actual marketplace imagery, archived experiment or local QA artifact is included.
+
+## Solo or Team archive — 21 October 2026
+
+The owner requested that Solo or Team be taken down and archived. Its page, assets and Interactive Lab card have been removed from the active publication. The complete reviewed source remains archived locally and recoverable from prior Git history. Dispatch Dash, Crowd Verdict, and the academic research record are unchanged.

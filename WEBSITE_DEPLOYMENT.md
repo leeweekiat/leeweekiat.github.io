@@ -35,3 +35,9 @@ Pre-release validation passed 36 simulation, 16 controller and 59 static checks,
 On 20 October 2026 the user approved Crowd Verdict: Refund or Reject? and its Interactive Lab card for commit, push and live verification. Its ten runtime files are under `docs/games/crowd-verdict/`, using buildless HTML, CSS, SVG and vanilla JavaScript.
 
 Pre-release validation passed 31 model, 16 controller and 65 site checks. Browser checks covered all ten cases, token reconciliation, sequential ballots, pause/resume/skip, replay, voluntary finish, keyboard controls and desktop/mobile layouts. All three desktop Lab cards have the same 270 px height and 220 px preview; mobile previews are 190 px high. Publish through the existing `master` → `/docs` configuration, then verify the homepage link, live game assets, token flow, jury report and relative return link. The two existing games and academic content are preserved. Local tests, screenshots and review notes remain outside the publication checkout.
+
+## Solo or Team withdrawal — 21 October 2026
+
+At the owner's request, Solo or Team was archived locally and removed from the active website. Its homepage Lab card and all nine runtime files under `docs/games/solo-or-team/` are removed. A verified snapshot with the game, prior homepage integration, tests and restoration instructions is retained outside this publication checkout. Earlier releases remain recoverable from Git history.
+
+Interactive Lab now links to Dispatch Dash and Crowd Verdict. Keep the shared Lab card styles used by Crowd Verdict. Verify the removed game URL returns 404 after deployment and both remaining games still load. This request authorizes publishing the withdrawal using the existing master → /docs Pages configuration.
