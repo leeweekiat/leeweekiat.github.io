@@ -103,6 +103,8 @@ The user supplied the following exact titles and author lists on 17 October 2026
 3. **Fair Workweek, Fair Outcomes? The Heterogeneous Treatment Effects of Predictive Scheduling Laws.** — Wee Kiat Lee, Yao Cui and Karan Girotra
 4. **When Should Gig Platforms Allow Teams?** — Wee Kiat Lee and Dan Luo
 
+On 21 October 2026, the user supplied [SSRN 7646258](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7646258) for **When Should Gig Platforms Allow Teams?** The title and “Read working paper” links now use that exact URL. The existing title and authors are preserved; no year or review status was added. The user subsequently requested placing this entry directly after Designing the Invisible Hand and before Shift Commitment, grouping the linked working papers together. The URL is author-supplied; the automated web reader could not retrieve the SSRN page for independent verification.
+
 ## Media Engagement
 
 At the user's request, the approved revision adds four media entries containing the headline, outlet, date, and a link to the original publisher. The bylines below are provenance. No article PDF, article body, screenshot, or publisher image is included in the website or publication files.
