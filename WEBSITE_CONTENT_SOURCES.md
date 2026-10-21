@@ -173,3 +173,11 @@ All ten product categories, four condition variants per product, animal jurors a
 ## Solo or Team archive — 21 October 2026
 
 The owner requested that Solo or Team be taken down and archived. Its page, assets and Interactive Lab card have been removed from the active publication. The complete reviewed source remains archived locally and recoverable from prior Git history. Dispatch Dash, Crowd Verdict, and the academic research record are unchanged.
+
+## Solo or Team restoration and gameplay balance — 21 October 2026
+
+The owner subsequently requested restoring the earlier platform-governance game after Crowd Verdict and approved this revision for commit, push and live verification. The nine runtime files retain the original characters, glowing route animation and three challenges with ten opportunities each. The separate five-job redesign and randomized-model experiment remain archived and excluded.
+
+At the owner's request, the detailed profit-breakdown panel is removed from results. All three policies are tuned for approximately equal realized full-game winning frequencies at the default controls. Approval processing is 6.6 + 5s² credits per submitted proposal. A seeded 30–110 credit amount shared across the marketplace is added to each opportunity's original 6–18 credit loss for a failed secondary attempt. Fresh visits generate a new code; comparisons and replay share the same underlying opportunities and outcome draws. There is no winner selection, outcome resampling or policy bonus.
+
+Independent validation over 10,000 separate marketplace codes found fractional win shares of 33.94% Block, 32.84% Case-by-Case Approval and 33.22% Formal Team. Ties occurred in 5.68% of marketplaces and were split evenly for this statistic. Controls were fixed at 40% approval requirements and 35% oversight, not optimized. These are intentionally tuned gameplay results, not empirical estimates or findings from the paper. Equal winning frequency does not imply equal expected or average profit, and individual challenges or other settings can have different rankings. Academic content and the other two games are unchanged.

@@ -41,3 +41,11 @@ Pre-release validation passed 31 model, 16 controller and 65 site checks. Browse
 At the owner's request, Solo or Team was archived locally and removed from the active website. Its homepage Lab card and all nine runtime files under `docs/games/solo-or-team/` are removed. A verified snapshot with the game, prior homepage integration, tests and restoration instructions is retained outside this publication checkout. Earlier releases remain recoverable from Git history.
 
 Interactive Lab now links to Dispatch Dash and Crowd Verdict. Keep the shared Lab card styles used by Crowd Verdict. Verify the removed game URL returns 404 after deployment and both remaining games still load. This request authorizes publishing the withdrawal using the existing master → /docs Pages configuration.
+
+## Approved Solo or Team restoration — 21 October 2026
+
+The owner approved restoring the platform-governance game after Crowd Verdict, with its original route animation, simplified results and revised gameplay balance. This release contains the homepage and nine game runtime files, plus these release/provenance notes. Authoring instructions, QA fixtures, saved PDFs and archived experiments are excluded.
+
+Pre-release validation passed 38 simulation, 17 controller and 85 static-site checks. A separate 10,000-marketplace evaluation confirmed approximately one-third fractional winning shares at default controls across all three challenges. The comparison remains realized sample profit, with settings held fixed rather than optimized. The page explains the tuning and its limits.
+
+Publish through the existing master → /docs Pages configuration. Verify that the homepage cards appear as Dispatch Dash, Crowd Verdict, Solo or Team, all nine restored game files match the commit, fresh visits create a replay code, and a full three-challenge game reaches its report and policy comparison. Preserve the separate local archives.
